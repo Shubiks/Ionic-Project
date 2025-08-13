@@ -33,9 +33,9 @@ Android Studio (for device testing)
 📸 Screenshots
 
 
-<img src="assets/Screenshots/slider.png" alt="Home Page Screenshot" width="300">
-<img src="assets/Screenshots/login.png" alt="Home Page Screenshot" width="300">
-<img src="assets/Screenshots/home.png" alt="Home Page Screenshot" width="300">
+<img src="assets/Screenshots/slider.png" alt="Home Page Screenshot" width="200">
+<img src="assets/Screenshots/login.png" alt="Home Page Screenshot" width="200">
+<img src="assets/Screenshots/home.png" alt="Home Page Screenshot" width="200">
 
 
 📦 Installation & Setup
