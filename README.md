@@ -31,10 +31,9 @@ Android Studio (for device testing)
 [View the App on Netlify](https://stirring-cucurucho-86d823.netlify.app/)
 
 📸 Screenshots
-<img src="assets/Screenshots/home.png" alt="Home Page Screenshot" width="300">
-<img src="assets/Screenshots/login.png" alt="Home Page Screenshot" width="300">
 <img src="assets/Screenshots/slider.png" alt="Home Page Screenshot" width="300">
-
+<img src="assets/Screenshots/login.png" alt="Home Page Screenshot" width="300">
+<img src="assets/Screenshots/home.png" alt="Home Page Screenshot" width="300">
 📦 Installation & Setup
 To run the project locally:
 # Clone the repository
